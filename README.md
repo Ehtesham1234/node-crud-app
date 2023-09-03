@@ -14,8 +14,6 @@ Clone this repository to your local machine:
 git clone https://github.com/your-username/nodejs-mongodb-crud-mvc.git
 Navigate to the project directory:
 
-bash
-Copy code
 cd nodejs-mongodb-crud-mvc
 Install the required dependencies:
 
